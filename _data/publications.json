@@ -1,0 +1,163 @@
+{
+    "publications": [
+        {
+            "year": "2022",
+            "publications": [
+        {
+            "authors": "Edi Muškardin, Bernhard K. Aichernig, Ingo Pill, Andrea Pferscher, and Martin Tappler",
+            "title": "AALpy: an active automata learning library",
+            "is_journal": true,
+            "journal": "Innov. Syst. Softw. Eng.",
+            "booktitle": "",
+            "volume": "18",
+            "number": "3",
+            "pages":"417-426",
+            "series": "",
+            "year": "2022",
+            "url": "https://doi.org/10.1007/s11334-022-00449-3",
+            "doi": "10.1007/s11334-022-00449-3",
+            "publisher": ""
+        },
+        {
+            "authors": "Andrea Pferscher and Bernhard K. Aichernig",
+            "title": "Stateful Black-Box Fuzzing of Bluetooth Devices Using Automata Learning",
+            "is_journal": false,
+            "journal": "",
+            "booktitle": "NASA Formal Methods - 14th International Symposium, NFM 2022, Pasadena, CA, USA, May 24-27, 2022, Proceedings",
+            "volume": "13260",
+            "pages":"373-392",
+            "series": "Lecture Notes in Computer Science",
+            "year": "2022",
+            "url": "https://doi.org/10.1007/978-3-031-06773-0_20",
+            "doi": "10.1007/978-3-031-06773-0_20",
+            "publisher": "Springer"
+        },
+        {
+            "authors": "Bernhard K. Aichernig, Sandra König, Cristinel Mateis, Andrea Pferscher, Dominik Schmidt, and Martin Tappler",
+            "title": "Constrained Training of Recurrent Neural Networks for Automata Learning",
+            "is_journal": false,
+            "journal": "",
+            "booktitle": "Software Engineering and Formal Methods - 20th International Conference, SEFM 2022, Berlin, Germany, September 26-30, 2022, Proceedings",
+            "volume": "13550",
+            "pages":"155-172",
+            "series": "Lecture Notes in Computer Science",
+            "year": "2022",
+            "url": "https://doi.org/10.1007/978-3-031-17108-6_10",
+            "doi": "10.1007/978-3-031-17108-6_10",
+            "publisher": "Springer"
+        },
+        {
+            "authors": "Bernhard K. Aichernig, Edi Muškardin, and Andrea Pferscher",
+            "title": "Active vs. Passive: A Comparison of Automata Learning Paradigms for Network Protocols",
+            "is_journal": false,
+            "journal": "",
+            "booktitle": "Proceedings Fourth International Workshop on Formal Methods for Autonomous Systems (FMAS) and Fourth International Workshop on Automated and verifiable Software sYstem DEvelopment (ASYDE), FMAS/ASYDE@SEFM 2022, and Fourth International Workshop on Automated and verifiable Software sYstem DEvelopment (ASYDE)Berlin, Germany, 26th and 27th of September 2022",
+            "volume": "371",
+            "pages":"1-19",
+            "series": "EPTCS",
+            "year": "2022",
+            "url": "https://doi.org/10.4204/EPTCS.371.1",
+            "doi": "10.4204/EPTCS.371.1",
+            "publisher": ""
+        },
+        {
+            "authors": "Andrea Pferscher and Bernhard K. Aichernig",
+            "title": "Fingerprinting and Analysis of Bluetooth Devices with Automata Learning",
+            "is_journal": true,
+            "journal": "CoRR",
+            "booktitle": "",
+            "volume": "abs/2211.16074",
+            "series": "",
+            "year": "2022",
+            "url": "https://doi.org/10.48550/arXiv.2211.16074",
+            "doi": "10.48550/arXiv.2211.16074",
+            "publisher": ""
+        }
+    
+        ]
+    }, 
+
+    {
+        "year": "2021",
+        "publications": [
+            {
+                "authors": "Edi Muškardin, Bernhard K. Aichernig, Ingo Pill,Andrea Pferscher, and Martin Tappler",
+                "title": "AALpy: An Active Automata Learning Library",
+                "is_journal": false,
+                "journal": "",
+                "booktitle": "Automated Technology for Verification an Analysis - 19th International Symposium, ATVA 2021, Gold Coast, QLD Australia, October 18-22, 2021, Proceedings",
+                "volume": "12971",
+                "pages":"67-73",
+                "series": "Lecture Notes in Computer Science",
+                "year": "2021",
+                "url": "https://doi.org/10.1007/978-3-030-88885-5_5",
+                "doi": "10.1007/978-3-030-88885-5_5",
+                "publisher": "Springer"
+            },
+            {
+                "authors": "Andrea Pferscher, and Bernhard K. Aichernig",
+                "title": "Fingerprinting Bluetooth Low Energy Devices via Active Automata Learning",
+                "is_journal": false,
+                "journal": "",
+                "booktitle": "Formal Methods - 24th International Symposium, FM 2021, Virtual Event, November 20-26, 2021, Proceedings",
+                "volume": "13047",
+                "pages":"524-542",
+                "series": "Lecture Notes in Computer Science",
+                "year": "2021",
+                "url": "https://doi.org/10.1007/978-3-030-90870-6_28",
+                "doi": "10.1007/978-3-030-90870-6_28",
+                "publisher": "Springer"
+            },
+            {
+                "authors": "Bernhard K. Aichernig, Edi Muškardin, and Andrea Pferscher",
+                "title": "Learning-Based Fuzzing of IoT Message Brokers",
+                "is_journal": false,
+                "journal": "",
+                "booktitle": "14th IEEE Conference on Software Testing Verification and Validation, ICST 2021, Porto de Galinhas, Brazil, April 12-16, 2021",
+                "volume": "",
+                "pages":"47-58",
+                "series": "",
+                "year": "2021",
+                "url": "https://doi.org/10.1109/ICST49551.2021.00017",
+                "doi": "10.1109/ICST49551.2021.00017",
+                "publisher": "IEEE"
+            }
+        ]
+    },
+    {
+        "year": "2020",
+        "publications": [
+            {
+                "authors": "Bernhard K. Aichernig, Andrea Pferscher, and Martin Tappler",
+                "title": "From Passive to Active: Learning Timed Automata Efficiently",
+                "is_journal": false,
+                "journal": "",
+                "booktitle": "NASA Formal Methods - 12th International Symposium, NFM 2020, Moffett Field, CA, USA, May 11-15, 2020, Proceedings",
+                "volume": "12229",
+                "pages":"1-19",
+                "series": "Lecture Notes in Computer Science",
+                "year": "2020",
+                "url": "https://doi.org/10.1007/978-3-030-55754-6_1",
+                "doi": "10.1007/978-3-030-55754-6_1",
+                "publisher": "Springer"
+            },
+            {
+                "authors": "Andrea Pferscher, and Bernhard K. Aichernig",
+                "title": "Learning Abstracted Non-deterministic Finite State Machines",
+                "is_journal": false,
+                "journal": "",
+                "booktitle": "Testing Software and Systems - 32nd IFIP WG 6.1 International Conference, ICTSS 2020, Naples, Italy, December 9-11, 2020, Proceedings",
+                "volume": "12543",
+                "pages":"52-69",
+                "series": "Lecture Notes in Computer Science",
+                "year": "2020",
+                "url": "https://doi.org/10.1007/978-3-030-64881-7_4",
+                "doi": "10.1007/978-3-030-64881-7_4",
+                "publisher": "Springer"
+            }
+        ]
+
+    }
+
+    ]
+}
