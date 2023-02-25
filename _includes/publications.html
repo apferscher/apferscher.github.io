@@ -1,0 +1,18 @@
+<div>
+{% for publication in site.data.publications.publications %}
+      <div class="publications-year">
+      <h2>{{publication.year}}</h2>
+      {% for pub in publication.publications %}
+        <div class="publication">
+          {{pub.authors}}. <b>{{pub.title}}.</b> 
+          {% if pub.is_journal %}
+            <i>{{pub.journal}}</i>, {% if pub.journal != "CoRR" %} {{pub.volume}}({{pub.number}}):{{pub.pages}}, {% endif %} {{pub.year}}. 
+            {% else %}
+            In <i>{{pub.booktitle}}</i>, {% if pub.volume != "" %} volume {{pub.volume}} of {{pub.series}}, {% endif %} pages {{pub.pages}}, {{pub.year}}{% if pub.publisher != "" %}, {{pub.publisher}}{% endif %}. 
+          {% endif %}
+          (<a href="{{pub.url}}">{{pub.doi}}</a>)
+        </div> <!-- .publication -->
+      {% endfor %}
+    </div> <!-- .publications-year -->
+{% endfor %}
+</div>
