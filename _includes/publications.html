@@ -6,7 +6,13 @@
         <div class="publication">
           {{pub.authors}}. <b>{{pub.title}}.</b> 
           {% if pub.is_journal %}
-            <i>{{pub.journal}}</i>, {% if pub.journal != "CoRR" %} {{pub.volume}}({{pub.number}}):{{pub.pages}}, {% endif %} {{pub.year}}. 
+            <i>{{pub.journal}}</i>, 
+            {% if pub.journal != "CoRR" %} 
+              {{pub.volume}}
+              {% if pub.number != "" %}({{pub.number}}):{% endif %}
+              {{pub.pages}},
+              {% endif %}
+              {{pub.year}}. 
             {% else %}
             In <i>{{pub.booktitle}}</i>, {% if pub.volume != "" %} volume {{pub.volume}} of {{pub.series}}, {% endif %} pages {{pub.pages}}, {{pub.year}}{% if pub.publisher != "" %}, {{pub.publisher}}{% endif %}. 
           {% endif %}
