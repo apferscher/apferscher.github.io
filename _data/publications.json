@@ -1,6 +1,39 @@
 {
     "publications": [
         {
+        "year": "2023",
+            "publications": [
+        {
+            "authors": "Andrea Pferscher and Bernhard K. Aichernig",
+            "title": "Fingerprinting and analysis of Bluetooth devices with automata learning",
+            "is_journal": true,
+            "journal": "Formal Methods in System Design",
+            "booktitle": "",
+            "volume": "",
+            "number": "",
+            "pages":"1-28",
+            "series": "",
+            "year": "2023",
+            "url": "https://doi.org/10.1007/s10703-023-00425-y",
+            "doi": "10.1007/s10703-023-00425-y",
+            "publisher": "Springer Nature"
+        },
+        {
+            "authors": "Andrea Pferscher, Benjamin Wunderling, Bernhard K. Aichernig, and Edi Muškardin",
+            "title": "Mining Digital Twins of a VPN Server",
+            "is_journal": false,
+            "journal": "",
+            "booktitle": "Preproceedings of the Workshop on Applications of Formal Methods and Digital Twins, FMDT 2023, Lübeck, Germany",
+            "volume": "505",
+            "pages":"",
+            "series": "Technical Reports",
+            "year": "2023",
+            "url": "https://fm2023.isp.uni-luebeck.de/index.php/workshop-applications-of-formal-methods-and-digital-twins/",
+            "doi": "ISBN: 978-82-7368-605-3",
+            "publisher": "Department of Informatics, University of Oslo"
+        }
+        ],  
+
             "year": "2022",
             "publications": [
         {
