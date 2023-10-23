@@ -14,4 +14,4 @@ Andrea Pferscher. **Active Model Learning of Timed Automata via Genetic Programm
 ---
 ## PhD Thesis
 
-Andrea Pferscher. **Automata Learning for Security Testing and Analysis in Networked Environments.** Graz University of Technology, 2023. [(PDF)](/docs/masters-thesis.pdf)
+Andrea Pferscher. **Automata Learning for Security Testing and Analysis in Networked Environments.** Graz University of Technology, 2023. [(PDF)](/docs/phd-thesis.pdf)
