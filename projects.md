@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### AIDOaRt (2021 - 2024)
+### AIDOaRt (2021 - 2023)
 {% include image_caption.html imageurl="/images/aidoart.png" title="AIDOaRt" caption="" %}
 
 AI-augmented automation supporting modelling, coding, testing, monitoring and continuous development in Cyber-Physical Systems
