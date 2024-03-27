@@ -125,19 +125,6 @@
                     "url": "https://doi.org/10.4204/EPTCS.371.1",
                     "doi": "10.4204/EPTCS.371.1",
                     "publisher": ""
-                },
-                {
-                    "authors": "Andrea Pferscher and Bernhard K. Aichernig",
-                    "title": "Fingerprinting and Analysis of Bluetooth Devices with Automata Learning",
-                    "is_journal": true,
-                    "journal": "CoRR",
-                    "booktitle": "",
-                    "volume": "abs/2211.16074",
-                    "series": "",
-                    "year": "2022",
-                    "url": "https://doi.org/10.48550/arXiv.2211.16074",
-                    "doi": "10.48550/arXiv.2211.16074",
-                    "publisher": ""
                 }
             ]
         },
