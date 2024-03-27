@@ -53,14 +53,14 @@
                     "title": "Mining Digital Twins of a VPN Server",
                     "is_journal": false,
                     "journal": "",
-                    "booktitle": "Preproceedings of the Workshop on Applications of Formal Methods and Digital Twins, FMDT 2023, Lübeck, Germany",
-                    "volume": "505",
-                    "pages": "49-59",
-                    "series": "Technical Reports",
+                    "booktitle": "Proceedings of the Workshop on Applications of Formal Methods and Digital Twins co-located with 25th International Symposium on Formal Methods (FM 2023), Lübeck, Germany, March 06, 2023",
+                    "volume": "3507",
+                    "pages": "",
+                    "series": "CEUR Workshop Proceedings",
                     "year": "2023",
-                    "url": "https://fm2023.isp.uni-luebeck.de/index.php/workshop-applications-of-formal-methods-and-digital-twins/",
-                    "doi": "ISBN: 978-82-7368-605-3",
-                    "publisher": "Department of Informatics, University of Oslo"
+                    "url": "https://ceur-ws.org/Vol-3507/paper6.pdf",
+                    "doi": "ceur-ws.org/Vol-3507",
+                    "publisher": "CEUR-WS.org"
                 }
             ]
         },
