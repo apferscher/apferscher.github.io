@@ -10,11 +10,11 @@
             {% if pub.journal != "CoRR" %} 
               {{pub.volume}}
               {% if pub.number != "" %}({{pub.number}}):{% endif %}
-              {{pub.pages}},
+              {% if pub.pages != "" %}{{pub.pages}},{% endif %}
               {% endif %}
               {{pub.year}}. 
             {% else %}
-            In <i>{{pub.booktitle}}</i>, {% if pub.volume != "" %} volume {{pub.volume}} of {{pub.series}}, {% endif %} pages {{pub.pages}}, {{pub.year}}{% if pub.publisher != "" %}, {{pub.publisher}}{% endif %}. 
+            In <i>{{pub.booktitle}}</i>, {% if pub.volume != "" %} volume {{pub.volume}} of {{pub.series}}, {% endif %}{% if pub.pages != "" %} pages {{pub.pages}}, {% endif %}{{pub.year}}{% if pub.publisher != "" %}, {{pub.publisher}}{% endif %}. 
           {% endif %}
           (<a href="{{pub.url}}">{{pub.doi}}</a>)
         </div> <!-- .publication -->
