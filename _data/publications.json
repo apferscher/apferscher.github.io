@@ -4,7 +4,19 @@
             "year": "2024",
             "publications": [
                 {
-                    "authors": "Martin Tappler and Andrea Pferscher and Bernhard K. Aichernig and Bettina Könighofer",
+                    "authors": "Paul Kobialka, Andrea Pferscher, Gunnar R. Bergersen, Einar Broch Johnsen, and Silvia Lizeth Tapia Tarif",
+                    "title": "Stochastic Games for User Journeys",
+                    "booktitle": "Formal Methods - 26th International Symposium, FM 2024, Milan, Italy, November 20-26, 2021, Proceeding",
+                    "is_journal": false,
+                    "pages": "167-186",
+                    "publisher": "Springer Nature Switzerland",
+                    "year": "2024",
+                    "volume": "14934",
+                    "url": "https://doi.org/10.1007/978-3-031-71177-0_12",
+                    "doi": "10.1007/978-3-031-71177-0_12"
+                },
+                {
+                    "authors": "Martin Tappler, Andrea Pferscher, Bernhard K. Aichernig and Bettina Könighofer",
                     "title": "Learning and Repair of Deep Reinforcement Learning Policies from Fuzz-Testing Data",
                     "booktitle": "Proceedings of the 46th IEEE/ACM International Conference on Software Engineering, ICSE 2024, Lisbon, Portugal, April 14-20, 2024",
                     "is_journal": false,
