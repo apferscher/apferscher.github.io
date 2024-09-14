@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Postdoc at the University of Oslo"
+title:  "Start as Postdoc at the University of Oslo"
 date:   2023-09-19 13:00:00 +0100
 ---
 
