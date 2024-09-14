@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ## University of Oslo, Norway 
-### [Models of Concurrency](https://www.uio.no/studier/emner/matnat/ifi/IN5170/index-eng.html#course_content) (2024 - )
+### [IN5170: Models of Concurrency](https://www.uio.no/studier/emner/matnat/ifi/IN5170/index-eng.html#course_content) (2024 - )
 Master course
 
 ## Graz University of Technology, Austria 
