@@ -1,6 +1,37 @@
 {
     "publications": [
         {
+            "year": "2025",
+            "publications": [
+                {
+                    "authors": "Einar Broch Johnsen, Paul Kobialka, Andrea Pferscher, and Silvia Lizeth Tapia Tarifa",
+                    "title": "Nudging Strategies for User Journeys: Take a Path on the Wild Side",
+                    "booktitle": "Real Time and Such - Essays Dedicated to Wang Yi to Celebrate His Scientific Career",
+                    "is_journal": false,
+                    "pages": "42-63",
+                    "publisher": "Springer",
+                    "year": "2025",
+                    "volume": "15230",
+                    "series": "Lecture Notes in Computer Science",
+                    "url": "https://doi.org/10.1007/978-3-031-73751-0_6",
+                    "doi": "10.1007/978-3-031-73751-0_6"
+                },
+                {
+                    "authors": "Eduard Kamburjan, Andrea Pferscher, Rudolf Schlatte, Riccardo Sieve, Silvia Lizeth Tapia Tarifa, and Einar Broch Johnsen",
+                    "title": "Semantic Reflection and Digital Twins: A Comprehensive Overview",
+                    "booktitle": "The Combined Power of Research, Education, and Dissemination - Essays Dedicated to Tiziana Margaria on the Occasion of Her 60th Birthday",
+                    "is_journal": false,
+                    "pages": "129-145",
+                    "publisher": "Springer",
+                    "year": "2025",
+                    "volume": "15240",
+                    "series": "Lecture Notes in Computer Science",
+                    "url": "https://doi.org/10.1007/978-3-031-73887-6_11",
+                    "doi": "10.1007/978-3-031-73887-6_11"
+                }
+            ]
+        },
+        {
             "year": "2024",
             "publications": [
                 {
@@ -29,14 +60,14 @@
                     "doi": "10.1145/3597503.3623311"
                 },
                 {
-                    "authors": "Bernhard K. Aichernig and Sandra König and Cristinel Mateis and Andrea Pferscher and Martin Tappler",
+                    "authors": "Bernhard K. Aichernig, Sandra König, Cristinel Mateis, Andrea Pferscher, and Martin Tappler",
                     "title": "Learning Minimal Automata with Recurrent Neural Networks",
                     "is_journal": true,
                     "journal": "Software and Systems Modeling",
                     "booktitle": "",
-                    "volume": "",
-                    "number": "",
-                    "pages": "",
+                    "volume": "23",
+                    "number": "3",
+                    "pages": "625-655",
                     "series": "1619-1374",
                     "year": "2024",
                     "url": "https://doi.org/10.1007/s10270-024-01160-6",
@@ -49,19 +80,18 @@
             "year": "2023",
             "publications": [
                 {
-                    "authors": "Andrea Pferscher and Bernhard K. Aichernig",
-                    "title": "Fingerprinting and Analysis of Bluetooth devices with Automata Learning",
-                    "is_journal": true,
-                    "journal": "Formal Methods in System Design",
-                    "booktitle": "",
-                    "volume": "",
-                    "number": "",
-                    "pages": "1-28",
-                    "series": "",
+                    "authors": "Andrea Pferscher",
+                    "title": "Automatenlernen für das Testen und die Analyse der Sicherheit in vernetzten Umgebungen",
+                    "is_journal": false,
+                    "journal": "",
+                    "booktitle": "Ausgezeichnete Informatikdissertationen 2023",
+                    "volume": "D-24",
+                    "pages": "221-230",
+                    "series": "LNI",
                     "year": "2023",
-                    "url": "https://doi.org/10.1007/s10703-023-00425-y",
-                    "doi": "10.1007/s10703-023-00425-y",
-                    "publisher": "Springer Nature"
+                    "url": "https://doi.org/10.18420/Diss2023-22",
+                    "doi": "10.18420/DISS2023-22",
+                    "publisher": "GI"
                 },
                 {
                     "authors": "Andrea Pferscher, Benjamin Wunderling, Bernhard K. Aichernig, and Edi Muškardin",
@@ -82,6 +112,21 @@
         {
             "year": "2022",
             "publications": [
+                {
+                    "authors": "Andrea Pferscher and Bernhard K. Aichernig",
+                    "title": "Fingerprinting and Analysis of Bluetooth devices with Automata Learning",
+                    "is_journal": true,
+                    "journal": "Formal Methods in System Design",
+                    "booktitle": "",
+                    "volume": "61",
+                    "number": "1",
+                    "pages": "36-62",
+                    "series": "",
+                    "year": "2022",
+                    "url": "https://doi.org/10.1007/s10703-023-00425-y",
+                    "doi": "10.1007/s10703-023-00425-y",
+                    "publisher": "Springer Nature"
+                },
                 {
                     "authors": "Edi Muškardin, Bernhard K. Aichernig, Ingo Pill, Andrea Pferscher, and Martin Tappler",
                     "title": "AALpy: an active automata learning library",
