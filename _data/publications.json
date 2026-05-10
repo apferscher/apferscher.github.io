@@ -1,6 +1,26 @@
 {
     "publications": [
         {
+            "year": "2026",
+            "publications": [
+                {
+                    "authors": "Paul Kobialka, Andrea Pferscher, Bernhard K. Aichernig, Einar Broch Johnsen, Silvia Lizeth Tapia Tarifa", 
+                    "title": "Automata Learning versus Process Mining: The Case for User Journeys",
+                    "is_journal": true,
+                    "journal": "IEEE Transactions on Software Engineering",
+                    "booktitle": "",
+                    "volume": "",
+                    "number": "",
+                    "pages": "",
+                    "series": "",
+                    "year": "2026",
+                    "url": "https://doi.org/10.1109/TSE.2026.3679253",
+                    "doi": "10.1109/TSE.2026.3679253",
+                    "publisher": "IEEE" 
+                }
+            ]
+        },
+        {
             "year": "2025",
             "publications": [
                 {
