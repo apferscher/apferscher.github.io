@@ -17,14 +17,80 @@
                     "url": "https://doi.org/10.1109/TSE.2026.3679253",
                     "doi": "10.1109/TSE.2026.3679253",
                     "publisher": "IEEE" 
+                },
+                {
+                    "authors": "Paul Kobialka, Andrea Pferscher, Francesco Leofante, Erika Ábrahám, Silvia Lizeth Tapia Tarifa, Einar Broch Johnsen",
+                    "title": "Attribution-based Explanations for Markov Decision Processes",
+                    "booktitle": "Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence, IJCAI 2026",
+                    "is_journal": false,
+                    "pages": "",
+                    "publisher": "ijcai.org",
+                    "year": "2026",
+                    "volume": "",
+                    "series": "",
+                    "url": "",
+                    "doi": ""
+                },
+                {
+                    "authors": "Einar Broch Johnsen, Eduard Kamburjan, Andrea Pferscher, Silvia Lizeth Tapia Tarifa",
+                    "title": "Formal Methods meet Digital Twins: Challenges and Opportunities",
+                    "booktitle": "Programming Languages and Systems - 35th European Symposium on Programming, ESOP 2026, Held as Part of the International Joint Conferences on Theory and Practice of Software, ETAPS 2026, Turin, Italy, April 11-16, 2026, Proceedings, Part I",
+                    "is_journal": false,
+                    "pages": "1-12",
+                    "publisher": "Springer",
+                    "year": "2026",
+                    "volume": "",
+                    "series": "",
+                    "url": "https://doi.org/10.1007/978-3-032-22720-1_1",
+                    "doi": "10.1007/978-3-032-22720-1_1"
+                }, 
+                {
+                    "authors": "Loes Kruger, Paul Kobialka, Andrea Pferscher, Einar Broch Johnsen, Sebastian Junges, Jurriaan Rot",
+                    "title": "Incremental Fingerprinting in an Open World",
+                    "booktitle": "39th IEEE Computer Security Foundations Symposium, CSF 2026, Lisbon, Portugal, (accepted)",
+                    "is_journal": false,
+                    "pages": "",
+                    "publisher": "IEEE",
+                    "year": "2026",
+                    "volume": "",
+                    "series": "",
+                    "url": "https://doi.org/10.48550/arXiv.2601.21680",
+                    "doi": "10.48550/arXiv.2601.21680"
+                },
+                {
+                    "authors": "Riccardo Sieve, Paul Kobialka, Andrea Pferscher, Nelly Bencomo, Silvia Lizeth Tapia Tarifa, Buster Salomon Rasmussen, Einar Broch Johnsen",
+                    "title": "A Self-Adaptive Digital Twin Architecture for Dynamic Resource Management",
+                    "booktitle": "21st IEEE/ACM Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS@ICSE 2026, Rio de Janeiro, Brazil, (to be published)",
+                    "is_journal": false,
+                    "pages": "",
+                    "publisher": "ACM",
+                    "year": "2026",
+                    "volume": "",
+                    "series": "",
+                    "url": "https://ebjohnsen.org/publication/26-seams/26-seams.pdf",
+                    "doi": ""
                 }
+
             ]
         },
         {
             "year": "2025",
             "publications": [
                 {
-                    "authors": "Einar Broch Johnsen, Paul Kobialka, Andrea Pferscher, and Silvia Lizeth Tapia Tarifa",
+                    "authors": "Åsmund Aqissiaq Arild Kløvstada, Paul Kobialka, Riccardo Sieve, Andrea Pferscher, Laura Slaughter, Silvia Lizeth Tapia Tarifa, Einar Broch Johnsen",
+                    "title": "What-If Scenarios for the BedreFlyt Digital Twin",
+                    "booktitle": "Principles of Formal Quantitative Analysis - Essays Dedicated to Christel Baier on the Occasion of Her 60th Birthday",
+                    "is_journal": false,
+                    "pages": "360-381",
+                    "publisher": "Springer Nature Switzerland",
+                    "year": "2025",
+                    "volume": "",
+                    "series": "Lecture Notes in Computer Science",
+                    "url": "https://doi.org/10.1007/978-3-031-97439-7_18",
+                    "doi": "10.1007/978-3-031-97439-7_18"
+                },
+                {
+                    "authors": "Einar Broch Johnsen, Paul Kobialka, Andrea Pferscher, Silvia Lizeth Tapia Tarifa",
                     "title": "Nudging Strategies for User Journeys: Take a Path on the Wild Side",
                     "booktitle": "Real Time and Such - Essays Dedicated to Wang Yi to Celebrate His Scientific Career",
                     "is_journal": false,
@@ -35,6 +101,18 @@
                     "series": "Lecture Notes in Computer Science",
                     "url": "https://doi.org/10.1007/978-3-031-73751-0_6",
                     "doi": "10.1007/978-3-031-73751-0_6"
+                },
+                {
+                    "authors": "Eduard Kamburjan, Laura A. Slaughter, Einar Broch Johnsen, Andrea Pferscher, Laura Weihl",
+                    "title": "Towards Self-Adaptive Data Management in Digital Twins for Biodiversity Monitoring",
+                    "booktitle": "28th ACM/IEEE International Conference on Model Driven Engineering Languages and Systems, MODELS 2025 - Companion, Grand Rapids, MI, USA, October 5-10, 2025",
+                    "is_journal": false,
+                    "pages": "257-263",
+                    "publisher": "IEEE",
+                    "year": "2025",
+                    "volume": "15230",
+                    "url": "https://doi.org/10.1109/MODELS-C68889.2025.00044",
+                    "doi": "10.1109/MODELS-C68889.2025.00044"
                 },
                 {
                     "authors": "Eduard Kamburjan, Andrea Pferscher, Rudolf Schlatte, Riccardo Sieve, Silvia Lizeth Tapia Tarifa, and Einar Broch Johnsen",
