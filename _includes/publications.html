@@ -14,9 +14,16 @@
               {% endif %}
               {{pub.year}}. 
             {% else %}
-            In <i>{{pub.booktitle}}</i>, {% if pub.volume != "" %} volume {{pub.volume}} of {{pub.series}}, {% endif %}{% if pub.pages != "" %} pages {{pub.pages}}, {% endif %}{{pub.year}}{% if pub.publisher != "" %}, {{pub.publisher}}{% endif %}. 
+            In <i>{{pub.booktitle}}</i>, {% if pub.volume != "" %} volume {{pub.volume}} {% if pub.series != "" %}  of {{pub.series}}{% endif %}, {% endif %}{% if pub.pages != "" %} pages {{pub.pages}}, {% endif %}{{pub.year}}{% if pub.publisher != "" %}, {{pub.publisher}}{% endif %}. 
           {% endif %}
-          (<a href="{{pub.url}}">{{pub.doi}}</a>)
+          {% if pub.doi != "" %}
+            (<a href="{{pub.url}}">{{pub.doi}}</a>)
+          {% else %}
+            {% if pub.url != "" %}
+              (<a href="{{pub.url}}">{{pub.url}}</a>)
+            {% endif %}
+          {% endif %}
+          
         </div> <!-- .publication -->
       {% endfor %}
     </div> <!-- .publications-year -->
