@@ -5,16 +5,16 @@ permalink: /teaching/
 ---
 
 ## University of Oslo, Norway 
-### [IN5170: Models of Concurrency](https://www.uio.no/studier/emner/matnat/ifi/IN5170/index-eng.html#course_content) (2024 - )
+### [IN5170: Models of Concurrency](https://www.uio.no/studier/emner/matnat/ifi/IN5170/index-eng.html#course_content) (2024-2026)
 Master course
 
 ## Graz University of Technology, Austria 
 
-### [INP.33028UF: Sofwareparadigms](https://online.tugraz.at/tug_online/pl/ui/$ctx;design=pl;header=max;lang=en/wbLv.wbShowLVDetail?pStpSpNr=335421) (2021 - 2022)
+### [INP.33028UF: Sofwareparadigms](https://online.tugraz.at/tug_online/pl/ui/$ctx;design=pl;header=max;lang=en/wbLv.wbShowLVDetail?pStpSpNr=335421) (2021-2022)
 Bachelor course (6th semester)
 
 
-### Study Assistant (2015 - 2018)
+### Study Assistant (2015-2018)
 
 + [716.114: Classical Themes of Computer Science](https://online.tugraz.at/tug_online/wbLv.wbShowLVDetail?pStpSpNr=206689)
 + [INB.01234UF: Foundation of Computer Science](https://online.tugraz.at/tug_online/pl/ui/$ctx;design=pl;header=max;lang=en/wbLv.wbShowLVDetail?pStpSpNr=336492) 
