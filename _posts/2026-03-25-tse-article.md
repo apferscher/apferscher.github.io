@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Article at TSE"
-date:   2026-05-10 14:00:00 +0100
+date:   2026-03-25 14:00:00 +0100
 ---
 
 Our article "Automata Learning versus Process Mining: The Case for User Journeys" has been published in IEEE Transactions on Software Engineering [(10.1109/TSE.2026.3679253)](https://doi.org/10.1109/TSE.2026.3679253).
